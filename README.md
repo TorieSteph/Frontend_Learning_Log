@@ -5,9 +5,10 @@ This repository documents my ongoing practice and growth in frontend web develop
 The projects here are learning exercises built during classes and self-study.
 
 ## Topics Covered
-- HTML fundamentals
-- CSS basics
+- HTML 
+- CSS
 - CSS Layout practice (CSS Display, positioning, Flexbox, Grid)
+- Javascript fundamentals
 - Beginner projects
 
 ## Purpose
